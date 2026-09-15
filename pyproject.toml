@@ -1,0 +1,12 @@
+[project]
+name = "aisurgeon-hcc-guideline-reconstruction"
+version = "0.1.0"
+description = "Reproducibility code for an autonomous ESMO HCC living-evidence guideline reconstruction pipeline"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32.0,<3",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,18 @@
+{
+  "providers": {
+    "openai": {
+      "gpt-5.6-sol": {
+        "input_usd_per_million_tokens": 0,
+        "output_usd_per_million_tokens": 0,
+        "cached_input_usd_per_million_tokens": 0
+      }
+    },
+    "gemini": {
+      "models/gemini-3.5-flash": {
+        "input_usd_per_million_tokens": 0,
+        "output_usd_per_million_tokens": 0,
+        "pdf_input_usd_per_million_tokens": 0
+      }
+    }
+  }
+}

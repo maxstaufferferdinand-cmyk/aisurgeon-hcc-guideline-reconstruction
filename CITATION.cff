@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this research software, cite it using the metadata in this file."
+title: "AISurgeon HCC Guideline Reconstruction"
+type: software
+authors:
+  - family-names: "Stauffer"
+    given-names: "Max"
+repository-code: "https://github.com/maxstaufferferdinand-cmyk/aisurgeon-hcc-guideline-reconstruction"
+version: "0.1.0"
+date-released: "2026-09-15"
+abstract: "Research code for reproducing an autonomous ESMO HCC 2012 living-evidence guideline-update pipeline over the 2012-07-01 to 2025-02-28 evidence window."
+license: "NOASSERTION"

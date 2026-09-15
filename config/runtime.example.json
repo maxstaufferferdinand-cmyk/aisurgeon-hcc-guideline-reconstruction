@@ -1,0 +1,7 @@
+{
+  "hcc_root": "/path/to/local/hcc-run-workspace",
+  "source_pdf": "/path/to/local/ESMOHCC2012.pdf",
+  "search_start": "2012-07-01",
+  "search_end": "2025-02-28",
+  "output_docx_name": "ESMO_HCC_2012_Living_Evidence_Update_2025-02-28_v1.docx"
+}

@@ -1,0 +1,33 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Local run workspaces and generated artifacts
+data/
+input/
+output/
+audit/
+logs/
+run_state/
+*.csv
+*.jsonl
+*.xml
+*.pdf
+*.docx
+*.xlsx
+*.zip
+
+# Provider payloads and caches
+raw_xml/
+raw_xml_unique_v2/
+gpt_mapping_appraisal/
+gpt_mapping_appraisal_direct/
+hcc_unit_synthesis/
+.cache/
